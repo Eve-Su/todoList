@@ -1,0 +1,12 @@
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\AiPlatformApiApplication.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\controller\AgentChatController.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\dto\chat\AgentChatRequest.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\dto\chat\AgentChatResponse.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchItem.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchRequest.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchResponse.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\application\service\AgentChatAppService.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\infrastructure\client\KnowledgeClient.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\infrastructure\client\KnowledgeHttpClient.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\runtime\runner\AgentRunner.java
+D:\zzz\todoList\Code\backend\ai-platform\ai-platform-api\src\main\java\com\zz\aiplatform\runtime\runner\DefaultAgentRunner.java

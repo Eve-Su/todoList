@@ -1,0 +1,13 @@
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\constant\TraceConstant.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\enums\TaskTypeEnum.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\exception\BaseBizException.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\model\BaseEntity.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\model\PageRequest.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\model\PageResponse.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\model\RequestContext.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\package-info.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\response\ApiResponse.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\response\code\CommonErrorCode.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\response\code\ErrorCode.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\util\JsonUtil.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-common\src\main\java\com\zz\platform\common\util\TraceUtil.java

@@ -1,0 +1,7 @@
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\config\PlatformMqAutoConfiguration.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\constant\MqTagConstant.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\constant\MqTopicConstant.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\consumer\AbstractMqConsumer.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\message\BaseMqMessage.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\package-info.java
+D:\zzz\todoList\Code\backend\ai-platform\platform-starter-mq\src\main\java\com\zz\platform\mq\producer\RocketMqProducer.java

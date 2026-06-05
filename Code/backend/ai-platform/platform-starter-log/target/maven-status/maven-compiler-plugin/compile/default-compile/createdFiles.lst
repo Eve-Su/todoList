@@ -1,0 +1,3 @@
+com\zz\platform\log\config\PlatformLogAutoConfiguration.class
+com\zz\platform\log\mdc\MdcTaskDecorator.class
+com\zz\platform\log\package-info.class

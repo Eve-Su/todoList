@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ai-platform-api
+
+server:
+  port: 18080
+
+logging:
+  config: classpath:logback-spring.xml

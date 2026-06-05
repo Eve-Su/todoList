@@ -1,0 +1,16 @@
+com\zz\aiplatform\infrastructure\client\KnowledgeClient.class
+com\zz\aiplatform\application\service\AgentChatAppService.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchResponse$KnowledgeSearchResponseBuilder.class
+com\zz\aiplatform\api\dto\chat\AgentChatResponse$AgentChatResponseBuilder.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchItem$KnowledgeSearchItemBuilder.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchResponse.class
+com\zz\aiplatform\infrastructure\client\KnowledgeHttpClient.class
+com\zz\aiplatform\api\dto\chat\AgentChatRequest.class
+com\zz\aiplatform\api\dto\chat\AgentChatResponse.class
+com\zz\aiplatform\runtime\runner\DefaultAgentRunner.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchRequest$KnowledgeSearchRequestBuilder.class
+com\zz\aiplatform\api\controller\AgentChatController.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchItem.class
+com\zz\aiplatform\api\dto\knowledge\KnowledgeSearchRequest.class
+com\zz\aiplatform\runtime\runner\AgentRunner.class
+com\zz\aiplatform\AiPlatformApiApplication.class
