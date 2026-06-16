@@ -1,9 +1,23 @@
 spring:
   application:
     name: knowledge-service
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/ag_platform?currentSchema=knowledge
+    username: postgres
+    password: '1234'
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
 
 server:
   port: 18081
 
 logging:
   config: classpath:logback-spring.xml
+
+rocketmq:
+  name-server: localhost:9876
+  producer:
+    group: knowledge-service-producer-group

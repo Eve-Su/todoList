@@ -1,8 +1,0 @@
-com\zz\platform\mq\message\BaseMqMessage$BaseMqMessageBuilder.class
-com\zz\platform\mq\producer\RocketMqProducer.class
-com\zz\platform\mq\package-info.class
-com\zz\platform\mq\message\BaseMqMessage.class
-com\zz\platform\mq\constant\MqTopicConstant.class
-com\zz\platform\mq\config\PlatformMqAutoConfiguration.class
-com\zz\platform\mq\consumer\AbstractMqConsumer.class
-com\zz\platform\mq\constant\MqTagConstant.class

@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: job-worker
-
-server:
-  port: 18082
-
-logging:
-  config: classpath:logback-spring.xml

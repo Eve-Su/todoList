@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: knowledge-service
-
-server:
-  port: 18081
-
-logging:
-  config: classpath:logback-spring.xml
