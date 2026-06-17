@@ -1,6 +1,8 @@
 spring:
   application:
     name: knowledge-service
+  main:
+    web-application-type: servlet
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/ag_platform?currentSchema=knowledge

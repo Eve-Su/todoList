@@ -1,6 +1,8 @@
 spring:
   application:
     name: ai-platform-api
+  main:
+    web-application-type: servlet
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/ag_platform?currentSchema=agent_bus

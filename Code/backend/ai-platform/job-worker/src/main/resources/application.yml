@@ -1,6 +1,8 @@
 spring:
   application:
     name: job-worker
+  main:
+    web-application-type: none
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/ag_platform?currentSchema=job_work

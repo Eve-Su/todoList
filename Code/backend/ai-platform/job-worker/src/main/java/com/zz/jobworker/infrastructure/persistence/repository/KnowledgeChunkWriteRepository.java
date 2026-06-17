@@ -17,7 +17,7 @@ public class KnowledgeChunkWriteRepository {
         jdbcTemplate.update("""
                         INSERT INTO knowledge.knowledge_chunk
                         (document_id, kb_code, chunk_no, chunk_text, chunk_tokens, metadata_json, embedding)
-                        VALUES (?, ?, ?, ?, ?, '{}'::jsonb, ?::vector)
+                        VALUES (?, ?, ?, ?, ?, '{}'::jsonb, ?::public.vector)
                         """,
                 documentId,
                 kbCode,

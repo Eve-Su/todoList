@@ -35,7 +35,7 @@ public class KnowledgeChunkRepository {
                         FROM knowledge.knowledge_chunk
                         WHERE kb_code = ?
                           AND embedding IS NOT NULL
-                        ORDER BY embedding <=> ?::vector
+                        ORDER BY embedding OPERATOR(public.<=>) ?::public.vector
                         LIMIT ?
                         """,
                 (rs, rowNum) -> {
